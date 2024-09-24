@@ -42,7 +42,7 @@ public class FortuneTeller {
         System.out.println("I see you are " + age + " years old" + ".");
         System.out.println("Your favorite color is " + favColor + ".");
         System.out.println("Your lucky number is " + luckyNum + ".");
-        System.out.printf("Your lucky number is %.3f of your age", percent);
+        System.out.printf("Your lucky number is %.3f of your age.", percent);
         System.out.println("");
         System.out.println("");
         System.out.println("Thank you for using this program!");
